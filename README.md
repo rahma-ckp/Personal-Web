@@ -12,6 +12,7 @@ Halaman Publik, yang dapat diakses oleh semua pengunjung.
 Halaman Admin, yang hanya dapat diakses setelah login, digunakan untuk mengelola konten.
 _________________________________________________________________________________________________________________________________________________________________________________
 **Fitur-Fitur**
+
 **1. Login & Logout**
 Fitur ini memungkinkan admin untuk masuk ke dalam sistem melalui halaman login yang dilengkapi dengan validasi data. Setelah selesai mengelola konten, admin dapat keluar dengan aman menggunakan fitur logout untuk mengakhiri sesi.
 
@@ -32,3 +33,11 @@ Website menyediakan opsi tampilan dalam dua mode: terang dan gelap. Pengguna beb
 
 **7. Statistik Pengunjung**
 Sistem mencatat jumlah kunjungan ke website dan menampilkannya dalam bentuk angka. Data ini berguna bagi admin untuk mengetahui seberapa banyak situs telah dikunjungi.
+____________________________________________________________________________________________________________________________________________________________________________
+
+**Teknologi yang Digunakan
+**
+Bahasa Pemrograman : PHP
+Database : MySQL
+Frontend : Tailwind CSS, HTML, Javascript
+Server Side : Apache / XAMPP
