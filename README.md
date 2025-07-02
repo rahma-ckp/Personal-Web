@@ -58,9 +58,17 @@ ________________________________________________________________________________
 
 **A. Halaman Home / Artikel**
 
-Halaman Home berfungsi sebagai halaman utama yang menampilkan daftar artikel dan artikel terbaru. Halaman ini juga dilengkapi fitur pencarian untuk memudahkan pengunjung menemukan artikel berdasarkan kata kunci tertentu.
+Halaman Home berfungsi sebagai halaman utama yang menampilkan daftar artikel dan artikel terbaru. Tersedia fitur pencarian untuk memudahkan pengunjung menemukan artikel berdasarkan kata kunci tertentu. Jika pengunjung ingin membaca artikel secara lengkap, mereka dapat mengklik tombol "Baca Selengkapnya" pada setiap ringkasan artikel.
 
 ![WhatsApp Image 2025-07-02 at 22 19 23_144d6202](https://github.com/user-attachments/assets/20053b95-f88e-47e4-b1da-a954c5c5f01d)
+
+![WhatsApp Image 2025-07-02 at 22 30 00_7ec235fa](https://github.com/user-attachments/assets/c18aa0b6-9c5b-4638-8725-738f0bafcaaf)
+
+![WhatsApp Image 2025-07-02 at 22 30 22_a706b6b8](https://github.com/user-attachments/assets/cfebdad8-9252-404d-84b6-6978c1bee0dd)
+
+![WhatsApp Image 2025-07-02 at 22 30 43_f3783dc0](https://github.com/user-attachments/assets/3d99c971-8090-42b3-88d3-1c4bf4a2cfbe)
+
+
 
 
 
