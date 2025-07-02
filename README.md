@@ -75,6 +75,25 @@ Halaman Gallery merupakan halaman yang menampilkan koleksi foto pribadi pemilik 
 
 ![WhatsApp Image 2025-07-02 at 22 39 03_a7fc9ea1](https://github.com/user-attachments/assets/6d1c2cd7-1b8d-4a54-82f8-8a4d30b2ca5c)
 
+**C. Halaman About**
+
+Halaman About merupakan halaman yang menampilkan deskripsi singkat mengenai pemilik website, Di halaman ini juga terdapat ikon Instagram, yang apabila diklik akan mengarahkan pengunjung langsung ke akun Instagram pemilik, sehingga mereka bisa terhubung lebih lanjut melalui media sosial.
+
+![WhatsApp Image 2025-07-03 at 06 16 22_3e830ef4](https://github.com/user-attachments/assets/acb75a51-32dc-45da-bb90-a887f8647b17)
+
+_________________________________________________________________________________________________________________________
+
+**User Interface Halaman Admin**
+
+**A. Halaman Login**
+
+Halaman Login adalah halaman yang digunakan untuk mengakses halaman admin. Untuk masuk, pengguna harus memasukkan username dan password yang valid. Pada halaman ini juga terdapat tombol "Beranda" yang dapat diklik untuk kembali ke halaman utama website
+
+![WhatsApp Image 2025-07-03 at 06 16 22_bf4d8de8](https://github.com/user-attachments/assets/7ccc7eb9-cbe9-4135-a718-34e191b81211)
+
+
+
+
 
 
 
