@@ -9,9 +9,9 @@ ________________________________________________________________________________
 
 **Website** ini memiliki dua bagian utama:
 
-**Halaman Publik**, yang dapat diakses oleh semua pengunjung.
+**Halaman Publik** **->** yang dapat diakses oleh semua pengunjung.
 
-**Halaman Admin**, yang hanya dapat diakses setelah login, digunakan untuk mengelola konten.
+**Halaman Admin**  **->** yang hanya dapat diakses setelah login, digunakan untuk mengelola konten.
 _________________________________________________________________________________________________________________________________________________________________________________
 **Fitur-Fitur**
 
