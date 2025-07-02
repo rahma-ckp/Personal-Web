@@ -68,6 +68,14 @@ Halaman Home berfungsi sebagai halaman utama yang menampilkan daftar artikel dan
 
 ![WhatsApp Image 2025-07-02 at 22 30 43_f3783dc0](https://github.com/user-attachments/assets/3d99c971-8090-42b3-88d3-1c4bf4a2cfbe)
 
+**B. Halaman Gallery**
+
+Halaman Gallery merupakan halaman yang menampilkan koleksi foto pribadi pemilik website. Setiap foto disertai dengan judul dan tanggal upload sebagai informasi tambahan. Halaman ini dirancang agar tampil menarik dan responsif, sehingga pengunjung dapat menikmati galeri dengan nyaman.
+
+![WhatsApp Image 2025-07-02 at 22 39 03_a7fc9ea1](https://github.com/user-attachments/assets/6d1c2cd7-1b8d-4a54-82f8-8a4d30b2ca5c)
+
+
+
 
 
 
