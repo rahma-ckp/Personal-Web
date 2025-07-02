@@ -60,13 +60,14 @@ ________________________________________________________________________________
 
 Halaman Home berfungsi sebagai halaman utama yang menampilkan daftar artikel dan artikel terbaru. Tersedia fitur pencarian untuk memudahkan pengunjung menemukan artikel berdasarkan kata kunci tertentu. Jika pengunjung ingin membaca artikel secara lengkap, mereka dapat mengklik tombol "Baca Selengkapnya" pada setiap ringkasan artikel.
 
-![WhatsApp Image 2025-07-02 at 22 19 23_144d6202](https://github.com/user-attachments/assets/20053b95-f88e-47e4-b1da-a954c5c5f01d)
+![WhatsApp Image 2025-07-03 at 06 16 20_be89408d](https://github.com/user-attachments/assets/d8a938c1-1e82-4b89-a1e7-054f1e310e44)
 
-![WhatsApp Image 2025-07-02 at 22 30 00_7ec235fa](https://github.com/user-attachments/assets/c18aa0b6-9c5b-4638-8725-738f0bafcaaf)
+![WhatsApp Image 2025-07-03 at 06 16 20_167bfe8c](https://github.com/user-attachments/assets/d35c7a49-748e-45b4-b290-356cf08821f3)
 
-![WhatsApp Image 2025-07-02 at 22 30 22_a706b6b8](https://github.com/user-attachments/assets/cfebdad8-9252-404d-84b6-6978c1bee0dd)
+![WhatsApp Image 2025-07-03 at 06 16 21_3989845f](https://github.com/user-attachments/assets/7c92bd99-85b2-4361-b17f-8c88dcaee0a1)
 
-![WhatsApp Image 2025-07-02 at 22 30 43_f3783dc0](https://github.com/user-attachments/assets/3d99c971-8090-42b3-88d3-1c4bf4a2cfbe)
+![WhatsApp Image 2025-07-03 at 06 16 21_c6796b44](https://github.com/user-attachments/assets/1b7635b7-f5fb-479c-84b1-e3437a8c4097)
+
 
 **B. Halaman Gallery**
 
