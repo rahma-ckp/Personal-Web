@@ -7,7 +7,7 @@ Personal web ini merupakan sebuah situs web pribadi yang dibuat untuk menampilka
 Selain menyajikan konten untuk publik, situs ini dilengkapi dengan fitur pengelolaan konten sederhana yang memungkinkan pemilik untuk memperbarui dan mengatur isi web secara langsung. Aplikasi dikembangkan menggunakan bahasa pemrograman PHP dan menyimpan data dalam database MySQL. Untuk tampilan antarmuka, digunakan Tailwind CSS agar desain terlihat modern, responsif, dan mudah disesuaikan.
 ____________________________________________________________________________________________________________________________________________________________________________
 
-Website ini memiliki dua bagian utama:
+**Website** ini memiliki dua bagian utama:
 
 **Halaman Publik**, yang dapat diakses oleh semua pengunjung.
 
@@ -39,10 +39,16 @@ ________________________________________________________________________________
 
 **Teknologi yang Digunakan**
 
-1.Bahasa Pemrograman : PHP
+1. Bahasa Pemrograman : PHP
 
-2.Database : MySQL
+2. Database : MySQL
 
-3.Frontend : Tailwind CSS, HTML, Javascript
+3. Frontend : Tailwind CSS, HTML, Javascript
 
-4.Server Side : Apache / XAMPP
+4. Server Side : Apache / XAMPP
+____________________________________________________________________________________________________________________________________________________________________________
+
+**Struktur Folder**
+
+![image](https://github.com/user-attachments/assets/fa62be6b-c34c-4d7e-a5f2-d78395e33f72)
+
