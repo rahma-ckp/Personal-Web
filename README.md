@@ -1,4 +1,4 @@
-**Personal Web**
+🌐**Personal Web**
 
 **Deskripsi**
 
@@ -44,7 +44,7 @@ Website menyediakan opsi tampilan dalam dua mode: terang dan gelap. Pengguna beb
 Sistem mencatat jumlah kunjungan ke website dan menampilkannya dalam bentuk angka. Data ini berguna bagi admin untuk         mengetahui seberapa banyak situs telah dikunjungi.
 _____________________________________________________________________________________________________________________________
 
-**Teknologi yang Digunakan**
+💡**Teknologi yang Digunakan**
 
 1. Bahasa Pemrograman : PHP
 
@@ -55,13 +55,13 @@ ________________________________________________________________________________
 4. Server Side : Apache / XAMPP
 ____________________________________________________________________________________________________________________________________________________________________________
 
-**Struktur Folder**
+📁**Struktur Folder**
 
 ![image](https://github.com/user-attachments/assets/fa62be6b-c34c-4d7e-a5f2-d78395e33f72)
 
 _____________________________________________________________________________________________________________________________________________________________________________
 
-**User Interface Halaman Publik**
+🖥️**User Interface Halaman Publik**
 
 **A. Halaman Home / Artikel**
 
@@ -90,7 +90,7 @@ Halaman About merupakan halaman yang menampilkan deskripsi singkat mengenai pemi
 
 _________________________________________________________________________________________________________________________
 
-**User Interface Halaman Admin**
+📋**User Interface Halaman Admin**
 
 **A. Halaman Login**
 
