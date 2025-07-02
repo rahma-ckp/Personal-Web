@@ -1,4 +1,4 @@
-Personal Web
+**Personal Web**
 Deskripsi
 
 Personal web ini merupakan sebuah situs web pribadi yang dibuat untuk menampilkan informasi mengenai pemiliknya, seperti biodata, galeri foto, serta artikel. Website ini tidak hanya berfungsi sebagai portofolio digital, tetapi juga sebagai sarana untuk membangun komunikasi antara pemilik dan pengunjung.
