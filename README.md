@@ -52,3 +52,15 @@ ________________________________________________________________________________
 
 ![image](https://github.com/user-attachments/assets/fa62be6b-c34c-4d7e-a5f2-d78395e33f72)
 
+_____________________________________________________________________________________________________________________________________________________________________________
+
+**User Interface Halaman Publik**
+
+**A. Halaman Home / Artikel**
+
+Halaman Home berfungsi sebagai halaman utama yang menampilkan daftar artikel dan artikel terbaru. Halaman ini juga dilengkapi fitur pencarian untuk memudahkan pengunjung menemukan artikel berdasarkan kata kunci tertentu.
+
+![WhatsApp Image 2025-07-02 at 22 19 23_144d6202](https://github.com/user-attachments/assets/20053b95-f88e-47e4-b1da-a954c5c5f01d)
+
+
+
