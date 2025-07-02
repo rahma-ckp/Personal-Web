@@ -35,9 +35,11 @@ Website menyediakan opsi tampilan dalam dua mode: terang dan gelap. Pengguna beb
 Sistem mencatat jumlah kunjungan ke website dan menampilkannya dalam bentuk angka. Data ini berguna bagi admin untuk mengetahui seberapa banyak situs telah dikunjungi.
 ____________________________________________________________________________________________________________________________________________________________________________
 
-**Teknologi yang Digunakan
-**
-Bahasa Pemrograman : PHP
-Database : MySQL
-Frontend : Tailwind CSS, HTML, Javascript
-Server Side : Apache / XAMPP
+**Teknologi yang Digunakan**
+1.Bahasa Pemrograman : PHP
+
+2.Database : MySQL
+
+3.Frontend : Tailwind CSS, HTML, Javascript
+
+4.Server Side : Apache / XAMPP
