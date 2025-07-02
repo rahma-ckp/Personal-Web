@@ -1,6 +1,6 @@
 **Personal Web**
 
-Deskripsi
+**Deskripsi**
 
 Personal web ini merupakan sebuah situs web pribadi yang dibuat untuk menampilkan informasi mengenai pemiliknya, seperti biodata, galeri foto, serta artikel. Website ini tidak hanya berfungsi sebagai portofolio digital, tetapi juga sebagai sarana untuk membangun komunikasi antara pemilik dan pengunjung.
 
@@ -10,6 +10,7 @@ ________________________________________________________________________________
 Website ini memiliki dua bagian utama:
 
 **Halaman Publik**, yang dapat diakses oleh semua pengunjung.
+
 **Halaman Admin**, yang hanya dapat diakses setelah login, digunakan untuk mengelola konten.
 _________________________________________________________________________________________________________________________________________________________________________________
 **Fitur-Fitur**
