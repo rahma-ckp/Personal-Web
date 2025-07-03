@@ -67,7 +67,7 @@ ________________________________________________________________________________
 
 **A. Halaman Home / Artikel**
 
-Halaman Home berfungsi sebagai halaman utama yang menampilkan daftar artikel dan artikel terbaru. Tersedia fitur pencarian untuk memudahkan pengunjung menemukan artikel berdasarkan kata kunci tertentu. Jika pengunjung ingin membaca artikel secara lengkap, mereka dapat mengklik tombol "Baca Selengkapnya" pada setiap ringkasan artikel.
+Halaman Home berfungsi sebagai halaman utama yang menampilkan daftar artikel dan artikel terbaru. Tersedia **fitur pencarian** untuk memudahkan pengunjung menemukan artikel berdasarkan kata kunci tertentu. Jika pengunjung ingin membaca artikel secara lengkap, mereka dapat mengklik tombol **"Baca Selengkapnya"** pada setiap ringkasan artikel.
 
 ![WhatsApp Image 2025-07-03 at 06 16 20_be89408d](https://github.com/user-attachments/assets/d8a938c1-1e82-4b89-a1e7-054f1e310e44)
 
@@ -80,13 +80,13 @@ Halaman Home berfungsi sebagai halaman utama yang menampilkan daftar artikel dan
 
 **B. Halaman Gallery**
 
-Halaman Gallery merupakan halaman yang menampilkan koleksi foto pribadi pemilik website. Setiap foto disertai dengan judul dan tanggal upload sebagai informasi tambahan. Halaman ini dirancang agar tampil menarik dan responsif, sehingga pengunjung dapat menikmati galeri dengan nyaman.
+Halaman Gallery merupakan halaman yang menampilkan koleksi foto pribadi pemilik website. Setiap foto disertai dengan **judul** dan **tanggal upload** sebagai informasi tambahan. Halaman ini dirancang agar tampil menarik dan responsif, sehingga pengunjung dapat menikmati galeri dengan nyaman.
 
 ![WhatsApp Image 2025-07-02 at 22 39 03_a7fc9ea1](https://github.com/user-attachments/assets/6d1c2cd7-1b8d-4a54-82f8-8a4d30b2ca5c)
 
 **C. Halaman About**
 
-Halaman About merupakan halaman yang menampilkan deskripsi singkat mengenai pemilik website, Di halaman ini juga terdapat ikon Instagram, yang apabila diklik akan mengarahkan pengunjung langsung ke akun Instagram pemilik, sehingga mereka bisa terhubung lebih lanjut melalui media sosial.
+Halaman About merupakan halaman yang menampilkan deskripsi singkat mengenai pemilik website, Di halaman ini juga terdapat **ikon Instagram**, yang apabila diklik akan mengarahkan pengunjung langsung ke akun Instagram pemilik, sehingga mereka bisa terhubung lebih lanjut melalui media sosial.
 
 ![WhatsApp Image 2025-07-03 at 06 16 22_3e830ef4](https://github.com/user-attachments/assets/acb75a51-32dc-45da-bb90-a887f8647b17)
 
@@ -98,14 +98,14 @@ ________________________________________________________________________________
 
 **A. Halaman Login**
 
-Halaman Login adalah halaman yang digunakan untuk mengakses halaman admin. Untuk masuk, pengguna harus memasukkan username dan password yang valid. Pada halaman ini juga terdapat tombol "Beranda" yang dapat diklik untuk kembali ke halaman utama website
+Halaman Login adalah halaman yang digunakan untuk mengakses halaman admin. Untuk masuk, pengguna harus memasukkan username dan password yang valid. Pada halaman ini juga terdapat **tombol "Beranda"** yang dapat diklik untuk kembali ke halaman utama website
 
 ![WhatsApp Image 2025-07-03 at 06 16 22_bf4d8de8](https://github.com/user-attachments/assets/7ccc7eb9-cbe9-4135-a718-34e191b81211)
 
 **B. Halaman Beranda**
 
 Halaman Beranda merupakan halaman yang menampilkan ringkasan statistik dari isi dan aktivitas website. Di dalamnya terdapat informasi mengenai jumlah artikel yang telah dipublikasikan dan jumlah foto dalam galeri.
-Selain itu, halaman ini juga menampilkan data statistik lainnya seperti jumlah kunjungan, aktivitas bulanan, serta distribusi konten yang menggambarkan sebaran jumlah artikel dan galeri. Halaman ini membantu admin untuk memantau perkembangan dan performa website secara keseluruhan dalam satu tampilan ringkas.
+Selain itu, halaman ini juga menampilkan **data statistik** lainnya seperti jumlah kunjungan, aktivitas bulanan, serta distribusi konten yang menggambarkan sebaran jumlah artikel dan galeri. Halaman ini membantu admin untuk memantau perkembangan dan performa website secara keseluruhan dalam satu tampilan ringkas.
 
 ![WhatsApp Image 2025-07-03 at 06 58 00_a031a66a](https://github.com/user-attachments/assets/177283c1-a83e-4929-9d88-14f58e787ba2)
 
@@ -133,6 +133,19 @@ Tersedia **fitur pencarian** yang memudahkan admin dalam menemukan foto tertentu
 ![WhatsApp Image 2025-07-03 at 07 02 42_eaf3a525](https://github.com/user-attachments/assets/44afac99-54be-47e7-895a-b435e847248a)
 
 ![WhatsApp Image 2025-07-03 at 07 02 43_e4f476b3](https://github.com/user-attachments/assets/c7d9a2ac-fbb2-4900-be02-6d8cfeb58987)
+
+**E. Halaman About**
+
+Halaman About merupakan halaman yang digunakan oleh admin untuk mengelola bagian informasi **“Tentang Saya”** pada website. Di halaman ini, admin dapat menampilkan data About yang sudah ada, menambahkan deskripsi baru, mengedit informasi yang ditampilkan, maupun menghapus konten yang tidak diperlukan.
+Selain itu, tersedia juga **fitur pencarian** untuk membantu admin menemukan data About tertentu dengan lebih cepat dan efisien, terutama jika terdapat lebih dari satu entri yang pernah dibuat.
+
+![WhatsApp Image 2025-07-03 at 07 02 43_f8d03013](https://github.com/user-attachments/assets/0e91d4c9-f241-4783-84c2-320d19042d7e)
+
+![WhatsApp Image 2025-07-03 at 07 02 43_604477af](https://github.com/user-attachments/assets/f4b579e7-d0d9-4e39-bfb9-bc75c5d9e3ab)
+
+![WhatsApp Image 2025-07-03 at 07 02 44_e8c7e216](https://github.com/user-attachments/assets/63f614c5-992d-4745-addc-681e7eedffdb)
+
+
 
 
 
