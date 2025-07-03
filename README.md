@@ -109,6 +109,22 @@ Selain itu, halaman ini juga menampilkan data statistik lainnya seperti jumlah k
 
 ![WhatsApp Image 2025-07-03 at 06 58 00_a031a66a](https://github.com/user-attachments/assets/177283c1-a83e-4929-9d88-14f58e787ba2)
 
+**C. Halaman Kelola Artikel**
+
+Halaman Kelola Artikel merupakan halaman yang digunakan oleh admin untuk mengelola seluruh konten artikel dalam website. Di halaman ini, admin dapat menampilkan daftar artikel yang sudah ada, menambahkan artikel baru, mengedit isi artikel, maupun menghapus artikel yang tidak diperlukan.
+Tersedia juga fitur pencarian untuk memudahkan admin menemukan artikel tertentu berdasarkan kata kunci. Selain itu, saat menambahkan atau mengedit artikel, admin dapat menyisipkan foto ke dalam artikel dengan mudah melalui tombol "Choose File", yang memungkinkan untuk mengunggah gambar langsung dari perangkat. Halaman ini dirancang agar proses pengelolaan konten menjadi lebih praktis, cepat, dan terorganisir.
+
+![WhatsApp Image 2025-07-03 at 06 58 00_738b2d35](https://github.com/user-attachments/assets/eeeef5b4-4e36-424a-9dbd-3cfe50e2d2e3)
+
+![WhatsApp Image 2025-07-03 at 06 58 01_c891c039](https://github.com/user-attachments/assets/3039b400-8742-45de-9e2e-e4798bc78bc2)
+
+![WhatsApp Image 2025-07-03 at 06 58 01_9dd782a5](https://github.com/user-attachments/assets/298d6e23-343c-4974-9b40-fdb58260f61d)
+
+
+
+
+
+
 
 
 
