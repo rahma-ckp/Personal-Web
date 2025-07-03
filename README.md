@@ -67,7 +67,9 @@ ________________________________________________________________________________
 
 **A. Halaman Home / Artikel**
 
+A. Halaman Home / Artikel
 Halaman Home berfungsi sebagai halaman utama yang menampilkan daftar artikel dan artikel terbaru. Tersedia **fitur pencarian** untuk memudahkan pengunjung menemukan artikel berdasarkan kata kunci tertentu. Jika pengunjung ingin membaca artikel secara lengkap, mereka dapat mengklik tombol **"Baca Selengkapnya"** pada setiap ringkasan artikel.
+Selain itu, pada halaman ini juga terdapat **tombol angka 1** yang berfungsi untuk **kembali ke bagian atas halaman** dengan cepat, sehingga pengunjung tidak perlu menggulir manual jika ingin kembali ke awal tampilan.
 
 ![WhatsApp Image 2025-07-03 at 06 16 20_be89408d](https://github.com/user-attachments/assets/d8a938c1-1e82-4b89-a1e7-054f1e310e44)
 
