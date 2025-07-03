@@ -102,6 +102,15 @@ Halaman Login adalah halaman yang digunakan untuk mengakses halaman admin. Untuk
 
 ![WhatsApp Image 2025-07-03 at 06 16 22_bf4d8de8](https://github.com/user-attachments/assets/7ccc7eb9-cbe9-4135-a718-34e191b81211)
 
+**B. Halaman Beranda**
+
+Halaman Beranda merupakan halaman yang menampilkan ringkasan statistik dari isi dan aktivitas website. Di dalamnya terdapat informasi mengenai jumlah artikel yang telah dipublikasikan dan jumlah foto dalam galeri.
+Selain itu, halaman ini juga menampilkan data statistik lainnya seperti jumlah kunjungan, aktivitas bulanan, serta distribusi konten yang menggambarkan sebaran jumlah artikel dan galeri. Halaman ini membantu admin untuk memantau perkembangan dan performa website secara keseluruhan dalam satu tampilan ringkas.
+
+![WhatsApp Image 2025-07-03 at 06 58 00_a031a66a](https://github.com/user-attachments/assets/177283c1-a83e-4929-9d88-14f58e787ba2)
+
+
+
 
 
 
