@@ -112,13 +112,30 @@ Selain itu, halaman ini juga menampilkan data statistik lainnya seperti jumlah k
 **C. Halaman Kelola Artikel**
 
 Halaman Kelola Artikel merupakan halaman yang digunakan oleh admin untuk mengelola seluruh konten artikel dalam website. Di halaman ini, admin dapat menampilkan daftar artikel yang sudah ada, menambahkan artikel baru, mengedit isi artikel, maupun menghapus artikel yang tidak diperlukan.
-Tersedia juga fitur pencarian untuk memudahkan admin menemukan artikel tertentu berdasarkan kata kunci. Selain itu, saat menambahkan atau mengedit artikel, admin dapat menyisipkan foto ke dalam artikel dengan mudah melalui tombol "Choose File", yang memungkinkan untuk mengunggah gambar langsung dari perangkat. Halaman ini dirancang agar proses pengelolaan konten menjadi lebih praktis, cepat, dan terorganisir.
+Tersedia juga **fitur pencarian** untuk memudahkan admin menemukan artikel tertentu berdasarkan kata kunci. Saat menambahkan atau mengedit artikel, admin juga dapat menyisipkan foto ke dalam artikel dengan mudah melalui tombol **"Choose File"** untuk mengunggah gambar dari perangkat.
+Selain itu, setiap artikel yang dipublikasikan akan secara otomatis **mencatat tanggal posting**, sehingga admin dapat memantau kapan artikel tersebut diterbitkan. Halaman ini dirancang untuk mempermudah proses pengelolaan konten secara efisien dan terstruktur.
 
 ![WhatsApp Image 2025-07-03 at 06 58 00_738b2d35](https://github.com/user-attachments/assets/eeeef5b4-4e36-424a-9dbd-3cfe50e2d2e3)
 
 ![WhatsApp Image 2025-07-03 at 06 58 01_c891c039](https://github.com/user-attachments/assets/3039b400-8742-45de-9e2e-e4798bc78bc2)
 
 ![WhatsApp Image 2025-07-03 at 06 58 01_9dd782a5](https://github.com/user-attachments/assets/298d6e23-343c-4974-9b40-fdb58260f61d)
+
+
+**D. Halaman Kelola Gallery**
+
+Halaman Kelola Gallery merupakan halaman yang digunakan oleh admin untuk mengelola seluruh koleksi foto dalam website. Di halaman ini, admin dapat menampilkan daftar galeri yang sudah ada, menambahkan foto baru, mengedit data galeri, maupun menghapus foto yang tidak lagi diperlukan.
+Tersedia **fitur pencarian** yang memudahkan admin dalam menemukan foto tertentu berdasarkan kata kunci. Selain itu, terdapat juga **fitur kategori**, yang memungkinkan admin untuk mengelompokkan foto ke dalam kategori tertentu. Pengunjung maupun admin dapat memilih kategori yang diinginkan untuk melihat galeri berdasarkan klasifikasi yang lebih spesifik.
+
+
+![WhatsApp Image 2025-07-03 at 07 02 42_9c50be53](https://github.com/user-attachments/assets/4e634016-1b7b-45f1-bdd6-80404a2b9537)
+
+![WhatsApp Image 2025-07-03 at 07 02 42_eaf3a525](https://github.com/user-attachments/assets/44afac99-54be-47e7-895a-b435e847248a)
+
+![WhatsApp Image 2025-07-03 at 07 02 43_e4f476b3](https://github.com/user-attachments/assets/c7d9a2ac-fbb2-4900-be02-6d8cfeb58987)
+
+
+
 
 
 
